@@ -1,14 +1,14 @@
 from aiogram import Bot
 
 
-BOT_TOKEN = '7217712724:AAFN38rg6p6ezZUk6bsMLOjDI2I8Bc5wc2I'
+BOT_TOKEN = 'YOUR_TOKEN'
 
-HOST = '127.0.0.1'
-USER = 'postgres'
-PASSWORD = 'admin'
+HOST = 'YOUR_HOST'
+USER = 'YOUR_USER'
+PASSWORD = 'YOUR_PASSWORD'
 DB_NAME = 'games'
 
-admins_list = [1224172892]
+admins_list = [123456789]
 
 
 
